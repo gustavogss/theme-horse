@@ -1,0 +1,1885 @@
+
+@media only screen and (max-width: 5000px){
+    .boxed_wrapper_box_page{
+        overflow-x: hidden;
+    }
+          
+    
+    }
+    
+    
+    /* Large Layout: 1200px. */
+    @media only screen and (min-width: 1200px){
+    
+        
+     
+        
+    }
+    
+    
+    
+    /* Medium screen  */ 
+    @media only screen and (min-width: 992px) and (max-width: 1199px) { 
+     
+    /*** Header Style One Css ***/
+    .header-lawer-left .nav-outer {
+        margin-left: 50px;
+    }
+        
+    /*** About Style1 Area Css ***/  
+    .about-style1-area {
+        padding: 0px 0 120px;
+    }    
+    .about-style1-text-box {
+        padding-top: 110px;
+    }
+    
+    /*** Pricing Table Area Css ***/  
+    .single-price-box .inner-box {
+        padding: 57px 30px 26px;
+    }    
+        
+    /*** Competitions Area Css ***/ 
+    .competitions-area {
+        padding: 120px 0 820px;
+    }         
+    .competitions-area .image-box-right {
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 50%;
+    } 
+    .competitions-area .image-box-right .image-layer {}     
+        
+    /*** Footer Area Css ***/    
+    .single-footer-widget .footer-contact-info ul li .text p br {
+        display: none;
+    } 
+    .single-footer-widget .latest-news li .title-box h4 {
+        font-size: 16px;
+        margin: 0 0 5px;
+    }    
+    .single-footer-widget .latest-news li .title-box h4 a br {
+        display: none;
+    }    
+        
+        
+    
+        
+        
+    /*** Header Style Two Css ***/
+    .headerlawer-right-style2 .nav-outer {
+        margin-right: 30px;
+    }    
+    .main-menu.style2 .navigation>li {
+        margin-right: 20px;
+    }    
+    .quote-button a {
+        padding: 0 15px;
+    }    
+    .headerlawer-right-style2 .outer-search-box-style1 {
+        padding: 35px 25px 35px 25px;
+    }    
+        
+    /*** Callto Action Area Css ***/    
+    .contact-info-holder {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 52px 60px 60px;
+    }    
+    .contact-info-holder .left {
+        margin-bottom: 19px;
+    }    
+     
+    /*** Our Info Area Css ***/      
+    .sigle-info-box {
+        margin: 120px 0;
+    }    
+        
+    /*** Award Area Css ***/         
+    .award-box {
+        margin-top: 50px;
+    }    
+    .award-title-box {
+        padding: 0px 0;
+    }    
+        
+        
+    
+        
+        
+    /*** Header Style Three Css ***/ 
+    .main-menu.style3 .navigation>li {
+        margin-right: 20px;
+    }    
+    
+    /*** Header Style Three Css ***/ 
+    .about-style2-area {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+    .about-style2-text-box {
+        padding-top: 80px;
+    }    
+        
+    /*** Match Info Area Css ***/ 
+    .next-match-info-box {
+        padding-top: 120px;
+        padding-right: 0px;
+        padding-bottom: 120px;
+    }    
+    .next-match-info-box:before {
+        top: 0;
+        left: -5000px;
+        bottom: 0;
+        right: -5000px;
+        border-top-right-radius: 0;
+    }    
+    .match-review-box {
+        margin-top: 0px;
+        padding-top: 120px;
+        padding-left: 0px;
+        padding-bottom: 110px;
+    }   
+    .match-review-box:before {
+        top: 0;
+        right: -5000px;
+        bottom: 0;
+        left: -5000px;
+        border-bottom-left-radius: 0px;
+    }    
+        
+    /*** Footer Area Style2 Css ***/ 
+    .single-footer-widget.style2.marbtm60{
+        margin-bottom: 60px;
+    }    
+    
+        
+        
+        
+        
+    /*** Header Style Four Css ***/ 
+    .header-lawer-right-style4 .nav-outer {
+        margin-right: 20px;
+    }    
+    .main-menu.style4 .navigation>li {
+        margin-right: 25px;
+    }    
+        
+    /*** Video Gallery Area Css ***/     
+    .video-holder-box {
+        max-width: 700px;
+    }    
+    
+    /*** Fact Counter Area Style2 Css ***/ 
+    .single-fact-counter .title {
+        padding-top: 14px;
+    }    
+    .single-fact-counter .title h3 {
+        font-size: 20px;
+    }    
+        
+    /*** Products Area Css ***/     
+    .products-inner-content-box {
+        padding: 100px 100px 80px;
+    }    
+    .products-content-box {
+        padding-left: 0px;
+        padding-right: 100px;
+        margin-top: 40px;
+    }    
+    
+    /*** Event Single Area Css ***/        
+    .event-single-content-box .inner-content .event-single-image {
+        margin-bottom: 26px;
+    }    
+        
+    /*** Faq Content Area Css ***/ 
+    .faq-content-area {
+        padding: 120px 0 100px;
+    }    
+    .faq-content-box {
+        padding-right: 0px;
+    }    
+    .faq-content-box .accordion-box .accordion.marginbottom0 {
+        margin-bottom: 20px;
+    }    
+        
+    /*** Blog Single Area Css ***/ 
+    .blog-single-botton-text .inner-text {
+        margin-bottom: 30px;
+    }    
+    .blog-single-prev-next-button {
+        padding-left: 10px;
+        padding-right: 10px;
+    }   
+    
+    /*** Contact Form Area Css ***/     
+    .contact-information-box {
+        padding: 63px 20px 63px;
+    }
+    .contact-information-box .follow-us {
+        padding-top: 49px;
+    }    
+    .contact-information-box .contact-us li .text p br{
+        display: none;
+    }    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    }
+    
+    
+    
+    /* Tablet Layout: 768px. */
+    @media only screen and (min-width: 768px) and (max-width: 991px) { 
+     
+    /*** About Style1 Area Css ***/  
+    .about-style1-area {
+        padding: 0px 0 120px;
+    }    
+    .about-style1-text-box {
+        padding-top: 110px;
+    }
+    
+    /*** Testimonial Style1 Area Css ***/  
+    .testimonial-style1-area {
+        padding: 120px 0 210px;
+    }
+    .testimonial-carousel.owl-nav-style-one.owl-theme .owl-nav {
+        top: auto;
+        left: 0;
+        bottom: -90px;
+        right: 0;
+        justify-content: center;
+    }    
+    .testimonial-carousel.owl-nav-style-one.owl-theme .owl-nav .owl-prev {
+        left: -50px;
+    }
+    .testimonial-carousel.owl-nav-style-one.owl-theme .owl-nav .owl-next {
+        right: -50px;
+    }
+        
+    /*** Competitions Area Css ***/ 
+    .competitions-area {
+        padding: 120px 0 750px;
+    }         
+    .competitions-area .image-box-right {
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 50%;
+    } 
+    .competitions-area .image-box-right .image-layer {
+        background-size: contain;
+    }     
+        
+    /*** Footer Area Css ***/        
+    .single-footer-widget.margin60-0 {
+        margin: 60px 0;
+    }    
+        
+        
+        
+        
+    /*** Header Style Two Css ***/
+    .header-style-two {
+        min-height: 110px;
+    }  
+    .header-lawer-style2 {
+        min-height: 110px;
+    }    
+    .headerlawer-left-style2 {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }   
+    .headerlawer-left-style2 .logo {
+        position: static !important;
+        padding: 24px 0 !important;
+    }
+    .headerlawer-right-style2 {
+        right: 0px !important;
+    } 
+    .headerlawer-right-style2 .nav-outer {
+        position: relative;
+        display: block;
+        float: right;
+        margin-right: 0;
+    }    
+    .headerlawer-right-style2 .nav-outer .mobile-nav-toggler {
+        position: relative;
+        float: right;
+        cursor: pointer;
+        padding: 35px 0;
+    }    
+        
+    /*** Callto Action Area Css ***/    
+    .contact-info-holder {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 52px 60px 60px;
+    }    
+    .contact-info-holder .left {
+        margin-bottom: 19px;
+    }    
+            
+    /*** Our Info Area Css ***/      
+    .sigle-info-box {
+        margin: 120px 0;
+    }        
+        
+    /*** Award Area Css ***/         
+    .award-box {
+        margin-top: 50px;
+    }    
+    .award-title-box {
+        padding: 0px 0;
+    }    
+        
+    /*** Subscribe Area Css ***/ 
+    .subscribe-area {
+        padding: 110px 0 120px;
+    }    
+    .subscribe-area .subscribe-box {
+        margin: 42px 0 0;
+    }    
+        
+        
+        
+        
+        
+    /*** Header Style Three Css ***/ 
+    .header-upper-left {
+        float: none !important;
+    }      
+    .header-upper-left .header-social-links {
+        padding-left: 0;
+        text-align: center;
+    }    
+    .header-upper-left .header-social-links ul li {
+        float: none;
+        margin-right: 0;
+        margin: 0 10px;
+    }    
+    .header-upper-right {
+        float: none !important;
+        text-align: center;
+    }    
+    .header-upper-right .header-contact-info ul li {
+        display: block;
+        float: none;
+        margin-right: 0;
+    } 
+        
+    .header-lawer-style3 .outer-box {
+        background: #16232a !important;
+        border-radius: 40px !important;
+        padding: 0 !important;
+    }
+    .headerlawer-left-style3 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .headerlawer-left-style3 .logo {
+        position: absolute !important;
+        top: auto !important;
+        left: -15px !important;
+        bottom: 0 !important;
+        width: 200px;
+        padding: 0 !important;
+    }
+    .headerlawer-right-style3 {
+        right: 0 !important;
+    }
+    .headerlawer-right-style3 .outer-search-box-style1 {
+        display: none;
+    }    
+    .headerlawer-right-style3 .nav-outer {
+        margin-right: 20px;
+    }    
+    .headerlawer-right-style3 .nav-outer .mobile-nav-toggler {
+        padding: 10px 0;
+    }    
+        
+    /*** Fasaltise Area Css ***/     
+    .single-fasaltise-box {
+        padding: 40px 0px 40px;
+        max-width: 50%;
+    }    
+        
+    /*** Header Style Three Css ***/ 
+    .about-style2-area {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+    .about-style2-text-box {
+        padding-top: 80px;
+    }    
+    
+    /*** Fact Counter Area Css ***/     
+    .single-fact-counter {
+        max-width: 320px;
+        width: 100%;
+        margin: 0 auto;
+    }    
+        
+    /*** Match Info Area Css ***/ 
+    .next-match-info-box {
+        padding-top: 120px;
+        padding-right: 0px;
+        padding-bottom: 120px;
+    }    
+    .next-match-info-box:before {
+        top: 0;
+        left: -5000px;
+        bottom: 0;
+        right: -5000px;
+        border-top-right-radius: 0;
+    }    
+    .match-review-box {
+        margin-top: 0px;
+        padding-top: 120px;
+        padding-left: 0px;
+        padding-bottom: 110px;
+    }   
+    .match-review-box:before {
+        top: 0;
+        right: -5000px;
+        bottom: 0;
+        left: -5000px;
+        border-bottom-left-radius: 0px;
+    }    
+            
+    /*** Footer Area Style2 Css ***/ 
+    .single-footer-widget.style2.marbtm60{
+        margin-bottom: 60px;
+    }    
+    .footer-bottom .outer-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }        
+    .footer-menu {
+        margin-top: 7px;
+    }    
+    .scroll-top.style2 {
+        bottom: 120px;
+    }    
+        
+        
+    
+        
+    /*** Header Style Four Css ***/    
+    .header-lawer-style4 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }    
+    .header-lawer-left-style4 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 4px 0 5px;
+    }
+    .header-lawer-right-style4 {
+        padding-left: 30px;
+        border-radius: 50px;
+        border-top-left-radius: 0;
+        margin: 0px;
+    }    
+    .header-lawer-right-style4 .nav-outer {
+        float: right;
+        margin-right: 15px;
+    }    
+    .header-lawer-right-style4 .outer-search-box-style1 {
+        float: right;
+    }    
+    .header-lawer-right-style4 .outer-search-box-style1 .seach-toggle {
+        height: 80px;
+        line-height: 80px;
+        border-left: 1px solid transparent;
+    }    
+    .tee-time-button.style2 {
+        padding: 10px 0;
+    } 
+        
+    /*** Slogan Area Css ***/        
+    .slogan-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: auto;
+        padding: 30px 0 40px;
+        text-align: center;
+    }  
+    .slogan-content .title {
+        margin: 0 0 18px;
+    }    
+        
+    /*** Video Gallery Area Css ***/     
+    .video-holder-box {
+        max-width: 700px;
+    }        
+    
+    /*** Field Review Area Css ***/ 
+    .field-review-content {
+        padding-right: 0px;
+        padding-bottom: 60px;
+    }    
+    .field-review-img-box {
+        max-width: 100%;
+        width: 100%;
+        overflow: hidden;
+    }    
+    
+    /*** Tee Time Area Css ***/       
+    .tee-time-box {
+        padding-top: 100px;
+        padding-left: 0px;
+        padding-bottom: 100px;
+        margin-top: -80px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }    
+    .tee-time-box:before {
+        top: 0;
+        left: -5000px;
+        bottom: 0;
+        right: -5000px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }    
+    .tee-time-box:after {
+        top: 80px;
+        left: -5000px;
+        bottom: 0;
+        right: -5000px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }    
+        
+    /*** Products Area Css ***/     
+    .products-inner-content-box {
+        padding: 100px 100px 80px;
+    }    
+    .products-content-box {
+        padding-left: 0px;
+        padding-right: 100px;
+        margin-top: 40px;
+    }    
+            
+    /*** Event Single Area Css ***/        
+    .event-single-content-box .inner-content .event-single-image {
+        margin-bottom: 26px;
+    }    
+    .event-info-box {
+        max-width: 400px;
+        width: 100%;
+    }        
+        
+    /*** Faq Content Area Css ***/ 
+    .faq-content-area {
+        padding: 120px 0 100px;
+    }    
+    .faq-content-box {
+        padding-right: 0px;
+    }    
+    .faq-content-box .accordion-box .accordion.marginbottom0 {
+        margin-bottom: 20px;
+    }    
+    
+    /*** Blog Area Css ***/
+    #blog-area.blog-style1-area{
+        padding-bottom: 50px;
+    }      
+    .sidebar-wrapper {
+        padding-top: 80px;
+    }  
+        
+    /*** Blog Single Area Css ***/ 
+    #blog-area.blog-single-area{
+        padding-bottom: 50px;
+    }       
+    .blog-single-botton-text .inner-text {
+        margin-bottom: 30px;
+    }     
+            
+    /*** Contact Form Area Css ***/         
+    .contact-form-content {
+        padding-top: 70px;
+        padding-left: 50px;
+        padding-bottom: 70px;
+        padding-right: 50px;
+    }    
+    .contact-form-content:before {
+        left: 0px;
+    }    
+    .contact-form {
+        padding-left: 0px;
+    }    
+    .contact-information-box {
+        margin-top: 50px;
+    }    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        
+        
+     
+        
+    }
+    
+    
+    /* Mobile Layout: 320px. */
+    @media only screen and (max-width: 767px) {
+    .sec-title .big-title h2 br{
+        display: none;
+    }    
+        
+           
+    /*** Header Style One Css ***/  
+    .header-lawer-right {
+        display: none;
+    } 
+    .headerlawer-right-style2 {
+        display: block;
+    } 
+    .headerlawer-right-style3 {
+        display: block;
+    }    
+     
+    /*** About Style1 Area Css ***/  
+    .about-style1-area {
+        padding: 0px 0 120px;
+    } 
+    .about-style1-image-box {
+        margin-top: 0px;
+    } 
+    .about-style1-image-box:after {
+        top: 5px;
+    } 
+    .about-style1-image-box:before {
+        display: none;
+    }    
+    .about-style1-text-box {
+        padding-top: 60px;
+    }
+    .about-style1-text-box .title {
+        position: relative;
+        display: block;
+        margin-top: -9px;
+    }    
+    .about-style1-text-box .title h2 {
+        font-size: 40px;
+        line-height: 52px;
+    }    
+    .about-style1-text-box .title h2 br {
+        display: none;
+    }    
+    .about-style1-text-box .inner-contant p br{
+        display: none;
+    }
+        
+    /*** Testimonial Style1 Area Css ***/  
+    .testimonial-style1-area {
+        padding: 120px 0 210px;
+    }
+    .testimonial-carousel.owl-nav-style-one.owl-theme .owl-nav {
+        top: auto;
+        left: 0;
+        bottom: -90px;
+        right: 0;
+        justify-content: center;
+    }    
+    .testimonial-carousel.owl-nav-style-one.owl-theme .owl-nav .owl-prev {
+        left: -50px;
+    }
+    .testimonial-carousel.owl-nav-style-one.owl-theme .owl-nav .owl-next {
+        right: -50px;
+    }
+            
+    /*** Pricing Table Area Css ***/  
+    .single-price-box .inner-box {
+        padding: 57px 30px 26px;
+    }    
+          
+    /*** Competitions Area Css ***/ 
+    .competitions-area {
+        padding: 120px 0 300px;
+    } 
+    .competitions-area .sec-title {
+        padding-bottom: 150px;
+    }    
+    .competitions-area .image-box-right {
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 50%;
+    } 
+    .competitions-area .image-box-right .image-layer {
+        max-width: 300px;
+        background-size: contain;
+    }
+    .single-competitions-item ul li .inner-content .left {
+        display: block;
+        float: none;
+        width: 160px;
+        margin-bottom: 17px;
+    }    
+    .single-vertical-carousel .prev-btn {
+        left: 0px;
+    }    
+    .single-vertical-carousel .next-btn {
+        left: 60px;
+    }    
+        
+    /*** Partner Area Css ***/     
+    .partner-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }    
+    .single-partner-logo-box {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+    }    
+     
+    /*** Footer Area Css ***/        
+    .single-footer-widget.margin60-0 {
+        margin: 60px 0;
+    }    
+    .single-footer-widget .footer-contact-info ul li .text p br {
+        display: none;
+    } 
+    .single-footer-widget .latest-news li .title-box h4 {
+        font-size: 16px;
+        margin: 0 0 10px;
+    }    
+    .single-footer-widget .latest-news li .title-box h4 a br {
+        display: none;
+    }
+    .footer-bottom {
+        padding: 32px 0 30px;
+    }    
+    .footer-bottom .outer-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }            
+    .copyright-text p {
+        margin: 0 0 0px;
+    }    
+    .scroll-top.style2 {
+        bottom: 120px;
+    }    
+    
+        
+        
+        
+           
+    /*** Header Style Two Css ***/
+    .header-style-two {
+        min-height: 110px;
+    }  
+    .header-lawer-style2 {
+        min-height: 110px;
+    }    
+    .headerlawer-left-style2 {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }   
+    .headerlawer-left-style2 .logo {
+        position: static !important;
+        padding: 24px 0 !important;
+    }
+    .headerlawer-right-style2 {
+        right: 0px !important;
+    } 
+    .headerlawer-right-style2 .nav-outer {
+        position: relative;
+        display: block;
+        float: right;
+        margin-right: 0;
+    }    
+    .headerlawer-right-style2 .nav-outer .mobile-nav-toggler {
+        position: relative;
+        float: right;
+        cursor: pointer;
+        padding: 35px 0;
+    }    
+    .headerlawer-right-style2 .hidden-content-button {
+        display: none;
+    }    
+    .headerlawer-right-style2 .outer-search-box-style1 {
+        display: none;
+    }    
+    .quote-button {
+        display: none;
+    }    
+        
+    /*** Callto Action Area Css ***/    
+    .contact-info-holder {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 52px 20px 60px;
+    }    
+    .contact-info-holder .left {
+        margin-bottom: 19px;
+    }   
+    .contact-info-holder .right {
+        flex-direction: column;
+    }    
+    .contact-info-holder .right .phone-number {
+        margin-right: 0;
+    }        
+    .contact-info-holder .right .phone-number .phone {
+        padding-left: 10px;
+    }    
+    .contact-info-holder .right .phone-number .phone a {
+        top: 2px;
+        font-size: 20px;
+    }    
+    .contact-info-holder .right .contact-button {
+        margin-top: 20px;
+    }    
+        
+    /*** Our Info Area Css ***/      
+    .sigle-info-box {
+        margin: 120px 0;
+    }    
+            
+    /*** Award Area Css ***/ 
+    .award-area {
+        padding: 120px 0 90px;
+    }    
+    .award-box {
+        margin-top: 50px;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }   
+    .award-title-box {
+        padding: 0px 0;
+    }         
+    .award-box .single-award-item {
+        margin-bottom: 30px;
+    }        
+        
+    /*** Portfolio Style2 Area Css ***/     
+    .portfolio-style2-area .top {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }    
+    .portfolio-style2-area .sec-title {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+    .portfolio-carousel.owl-nav-style-one.owl-theme .owl-nav .owl-prev {
+        left: 20px;
+    }    
+    .portfolio-carousel.owl-nav-style-one.owl-theme .owl-nav .owl-next {
+        right: 20px;
+    }    
+        
+    /*** Subscribe Area Css ***/ 
+    .subscribe-area {
+        padding: 110px 0 120px;
+    }    
+    .subscribe-area .subscribe-box {
+        margin: 42px 0 0;
+    } 
+    .subscribe-area .subscribe-form input[type="email"] {
+        padding: 0 25px;
+        padding-right: 120px;
+    }    
+    .subscribe-area .subscribe-form button {
+        width: 110px;
+    }    
+        
+        
+        
+        
+        
+    /*** Header Style Three Css ***/ 
+    .header-style-three {}    
+    .header-upper .outer-box {
+        padding-bottom: 49px;
+    }    
+    .header-upper-left {
+        float: none !important;
+    }      
+    .header-upper-left .header-social-links {
+        padding-left: 0;
+        text-align: center;
+    }    
+    .header-upper-left .header-social-links ul li {
+        float: none;
+        margin-right: 0;
+        margin: 0 10px;
+    }    
+    .header-upper-right {
+        float: none !important;
+        text-align: center;
+    }    
+    .header-upper-right .header-contact-info ul li {
+        display: block;
+        float: none;
+        margin-right: 0;
+    } 
+        
+    .header-lawer-style3 .outer-box {
+        background: #16232a !important;
+        border-radius: 40px !important;
+        padding: 0 !important;
+    }
+    .headerlawer-left-style3 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .headerlawer-left-style3 .logo {
+        position: absolute !important;
+        top: auto !important;
+        left: -15px !important;
+        bottom: 0 !important;
+        width: 200px;
+        padding: 0 !important;
+    }
+    .headerlawer-right-style3 {
+        right: 0 !important;
+    }
+    .headerlawer-right-style3 .outer-search-box-style1 {
+        display: none;
+    }    
+    .headerlawer-right-style3 .nav-outer {
+        margin-right: 20px;
+    }    
+    .headerlawer-right-style3 .nav-outer .mobile-nav-toggler {
+        padding: 10px 0;
+    }    
+    .headerlawer-right-style3 .tee-time-button{
+        display: none;
+    }    
+        
+    /*** Fasaltise Area Css ***/     
+    .single-fasaltise-box {
+        padding: 40px 0px 40px;
+        max-width: 100%;
+    }    
+            
+    /*** Header Style Three Css ***/ 
+    .about-style2-area {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }  
+    .about-style2-image-box:before {
+        border: 0px solid #bbbbbb;
+    }    
+    .about-style2-text-box {
+        padding-top: 50px;
+    }    
+    .about-style2-text-box .inner-contant .bottom-box {
+        align-items: flex-start;
+        flex-direction: column-reverse;
+        justify-content: flex-start;
+    }        
+    .about-style2-text-box .inner-contant .bottom-box .phn-number {
+        margin-left: 0;
+        margin-bottom: 20px;
+    }    
+        
+    /*** Fact Counter Area Css ***/     
+    .single-fact-counter {
+        max-width: 320px;
+        width: 100%;
+        margin: 0 auto;
+    }    
+            
+    /*** Portfolio Style3 Area Css ***/ 
+    .project-menu-box {
+        margin-bottom: 40px;
+    }    
+    .project-filter li {
+        margin: 0 27px 10px;
+    }    
+        
+    /*** Match Info Area Css ***/ 
+    .next-match-info-box {
+        padding-top: 120px;
+        padding-right: 0px;
+        padding-bottom: 120px;
+    }    
+    .next-match-info-box:before {
+        top: 0;
+        left: -5000px;
+        bottom: 0;
+        right: -5000px;
+        border-top-right-radius: 0;
+    }   
+    .next-match-info-box .inner-content ul li {
+        min-height: 180px;
+        padding-right: 20px;
+    } 
+    .next-match-info-box .inner-content ul li .date-box {
+        padding: 65px 0;
+    }    
+    .next-match-info-box .inner-content ul li .title-box h3 {
+        font-size: 20px;
+        line-height: 30px;
+        margin: 0 0 7px;
+    }    
+        
+    .match-review-box {
+        margin-top: 0px;
+        padding-top: 120px;
+        padding-left: 0px;
+        padding-bottom: 110px;
+    }   
+    .match-review-box:before {
+        top: 0;
+        right: -5000px;
+        bottom: 0;
+        left: -5000px;
+        border-bottom-left-radius: 0px;
+    }    
+    .match-review-box .inner-content .single-box {
+        margin-bottom: 20px;
+    }        
+    .match-review-box .inner-content .bottom {
+        margin-top: 23px;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    } 
+    .match-review-box .inner-content .bottom .right {
+        margin-top: 10px;
+    }    
+        
+    /*** Testimonial Style2 Area Css ***/ 
+    .testimonial-style2-outer-box {
+        padding-top: 80px;
+        padding-left: 60px;
+        padding-bottom: 70px;
+        padding-right: 50px;
+    }    
+    .single-testimonial-style2 {
+        padding-left: 0px;
+    }    
+    .single-testimonial-style2 .img-box {
+        position: relative;
+        margin-bottom: 47px;
+    }  
+    .single-testimonial-style2 .text-holder {
+        padding-left: 0px;
+    }    
+    .testimonial-carousel-style2.owl-nav-style-one.owl-theme .owl-nav .owl-prev {
+        left: -60px;
+    }    
+    .testimonial-carousel-style2.owl-nav-style-one.owl-theme .owl-nav .owl-next {
+        right: -50px;
+    } 
+        
+    /*** Latest Blog Style2 Area Css ***/     
+    .single-blog-post-style2 .text-holder .right {
+        padding-left: 25px;
+        padding-right: 20px;
+    }    
+    
+    /*** Partner Style2 Area Css ***/ 
+    .partner-box-style2 {
+        flex-direction: column;
+        justify-content: center;
+    }    
+    .single-partner-logo-box-style2 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }    
+        
+    /*** Footer Area Style2 Css ***/ 
+    .single-footer-widget.style2.marbtm60{
+        margin-bottom: 60px;
+    }        
+    .single-footer-widget.style2.martop60{
+        margin-top: 60px;
+    }    
+    .footer-bottom .outer-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }        
+    .footer-menu {
+        margin-top: 7px;
+        text-align: center;
+    } 
+    .footer-menu ul li {
+        display: inline-block;
+        float: none;
+        padding-right: 0;
+        margin-right: 0;
+        margin: 0 10px;
+    }  
+    .footer-menu ul li:first-child {
+        margin: 0;
+    }    
+    .footer-menu ul li:before {
+        display: none;
+    }    
+    
+        
+     
+        
+        
+    /*** Header Style Four Css ***/
+    .header-upper-style2 .outer-box {
+        padding-bottom: 0 !important;
+    }    
+    .header-upper-left-style2 {
+        float: none !important;
+        text-align: center;
+    }
+    .header-upper-left-style2 .header-contact-info ul li {
+        display: block;
+        float: none;
+        margin-right: 0;
+    } 
+    .header-upper-right-style2 {
+        float: none !important;
+        text-align: center;
+    }    
+    .header-upper-right-style2 .header-social-links ul li {
+        float: none;
+        margin-right: 0;
+        margin: 0 12px;
+    } 
+    .header-upper-right-style2 .header-social-links ul li:first-child{
+        margin: 0;
+    }    
+        
+    .header-lawer-style4 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }    
+    .header-lawer-left-style4 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 4px 0 5px;
+    }
+    .header-lawer-right-style4 {
+        padding-left: 30px;
+        border-radius: 50px;
+        border-top-left-radius: 0;
+        margin: 0px;
+    }    
+    .header-lawer-right-style4 .nav-outer {
+        float: right;
+        margin-right: 15px;
+    }    
+    .header-lawer-right-style4 .outer-search-box-style1 {
+        float: right;
+    }    
+    .header-lawer-right-style4 .outer-search-box-style1 .seach-toggle {
+        height: 80px;
+        line-height: 80px;
+        border-left: 1px solid transparent;
+    }    
+    .tee-time-button.style2 {
+        padding: 10px 0;
+        display: none;
+    } 
+            
+    /*** Slogan Area Css ***/        
+    .slogan-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: auto;
+        padding: 30px 0 40px;
+        text-align: center;
+    }  
+    .slogan-content .title {
+        margin: 0 0 18px;
+    }    
+        
+    /*** Slogan Area Css ***/        
+    .about-style3-area .about-style2-text-box .inner-contant .bottom-box {
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }    
+        
+    /*** Video Gallery Area Css ***/     
+    .video-holder-box {
+        max-width: 500px;
+        min-height: 400px;
+    }        
+        
+    /*** Field Review Area Css ***/ 
+    .field-review-content {
+        padding-right: 0px;
+        padding-bottom: 60px;
+    }    
+    .field-review-img-box {
+        max-width: 100%;
+        width: 100%;
+        overflow: hidden;
+    }    
+        
+    /*** Tee Time Area Css ***/       
+    .tee-time-box {
+        padding-top: 100px;
+        padding-left: 0px;
+        padding-bottom: 100px;
+        margin-top: -80px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }    
+    .tee-time-box:before {
+        top: 0;
+        left: -5000px;
+        bottom: 0;
+        right: -5000px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }    
+    .tee-time-box:after {
+        top: 80px;
+        left: -5000px;
+        bottom: 0;
+        right: -5000px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }    
+    .tee-time-form .bottom-box {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }        
+    .tee-time-form .bottom-box .button-box {
+        margin-top: 17px;
+    }    
+        
+    /*** Products Area Css ***/     
+    .products-inner-content-box {
+        padding: 60px 30px 40px;
+    }    
+    .products-content-box {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: 40px;
+    }    
+    .single-product-slide .big-image-box .overlay-button {
+        left: 20px;
+        bottom: 20px;
+    }        
+        
+    /*** Breadcrumb Area Css ***/ 
+    .breadcrumb-area .inner-content .border-box {
+        margin: 31px auto 30px;
+    }    
+    .breadcrumb-area .title h1 {
+        font-size: 50px;
+        line-height: 60px;
+        font-weight: 400;
+    } 
+        
+    /*** Event Single Area Css ***/  
+    .event-single-carousel {
+        padding: 0px;
+    }    
+    .event-single-content-box .inner-content .event-single-image {
+        margin-bottom: 26px;
+    }    
+    .event-info-box {
+        max-width: 400px;
+        width: 100%;
+        padding: 42px 20px 32px;
+        margin: 44px auto 0;
+    }      
+    .event-info-box ul li {
+        font-size: 16px;
+        margin-bottom: 18px;
+    }        
+    .event-info-box ul li span {
+        width: 135px;
+    }    
+        
+    /*** Faq Content Area Css ***/ 
+    .faq-content-area {
+        padding: 120px 0 100px;
+    }    
+    .faq-content-box {
+        padding-right: 0px;
+    }    
+    .faq-content-box .accordion-box .accordion.marginbottom0 {
+        margin-bottom: 20px;
+    }    
+    .question-form {
+        padding: 0 30px;
+    }        
+        
+    /*** Blog Area Css ***/ 
+    #blog-area.blog-style1-area{
+        padding-bottom: 50px;
+    }    
+    .sidebar-wrapper {
+        padding-top: 80px;
+    }  
+    .styled-pagination li {
+        margin: 0px 8px 5px;
+    }        
+    .single-sidebar .recent-posts li .title-box h4 a br{
+        display: none;
+    }    
+        
+    /*** Blog Single Area Css ***/ 
+    #blog-area.blog-single-area{
+        padding-bottom: 50px;
+    }       
+    .blog-single-botton-text .inner-text {
+        margin-bottom: 30px;
+    }     
+    .blog-single-area .tag-box .tag {
+        float: none;
+        overflow: hidden;
+    }        
+    .blog-single-area .tag-box .right {
+        float: none;
+        overflow: hidden;
+    }  
+    .blog-single-prev-next-button {
+        padding-bottom: 34px;
+    }    
+    .blog-single-prev-next-button .prev {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        float: none;
+    }    
+    .blog-single-prev-next-button .next {
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        float: none;
+        margin-top: 24px;
+    }
+    .blog-single-prev-next-button .next .title-box {
+        margin-right: 0;
+        text-align: center;
+        margin-top: 10px;
+    }    
+    .blog-single-prev-next-button .prev .title-box {
+        margin-left: 0;
+        text-align: center;
+        margin-top: 10px;
+    }    
+        
+    .comment-box .single-comment-box {
+        padding-left: 0px;
+    } 
+    .comment-box .single-comment-box.marleft100 {
+        margin-left: 0px;
+    }    
+    .comment-box .single-comment-box .img-holder {
+        position: static;
+    }    
+    .comment-box .single-comment-box .text-holder {
+        margin-top: 23px;
+        margin-left: 0px;
+    }    
+        
+    /*** Contact Form Area Css ***/         
+    .contact-form-content {
+        padding-top: 40px;
+        padding-left: 30px;
+        padding-bottom: 40px;
+        padding-right: 30px;
+    }    
+    .contact-form-content:before {
+        left: 0px;
+    }    
+    .contact-form {
+        padding-left: 0px;
+    }    
+    .contact-information-box {
+        margin-top: 50px;
+        padding: 43px 30px 43px;
+    }    
+    .contact-information-box .contact-us li .icon, 
+    .contact-information-box .contact-us li .text {
+        display: block;
+    }        
+    .contact-information-box .follow-us {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }    
+    .contact-information-box .contact-us li .text p br{
+        display: none;
+    }    
+    .contact-information-box .contact-us li .icon {
+        top: 0;
+        width: 50px;
+        height: 50px;
+        text-align: center;
+        border-bottom: 1px solid #f6f6f6;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 768px){
+        .main-menu .navigation > li > ul,
+        .main-menu .navigation > li > ul > li > ul{
+            display:block !important;
+            visibility:hidden;
+            opacity:0;
+        }
+    }
+    
+    
+    
+    
+    
+    @media only screen and (max-width: 991px) {
+        
+    /*** Header Style One Css ***/ 
+    .header-lawer .outer-box {
+        background: rgba(0, 0, 0, 0.50);
+        border-radius: 40px;
+        padding: 0 20px;
+    }    
+    .header-lawer-left {
+        float: none !important;
+    }        
+    .header-lawer-left .nav-outer {
+        display: block;
+        float: none;
+        margin-left: 0;
+    } 
+    .header-lawer-left .logo {
+        position: absolute;
+        top: 0;
+        left: 0;
+        float: none;
+        padding: 9px 0;
+        z-index: 2;
+    }  
+    .header-lawer-right {
+        position: absolute;
+        top: 0;
+        right: 100px;
+        float: none !important;
+    }    
+        
+    
+    
+    .main-header .main-menu {
+        position: relative;
+        display: block;
+        width: 100%;
+        float: none;
+    }      
+    .main-header .nav-outer .main-menu,
+    .sticky-header{
+        display: none !important;
+    }
+    .nav-outer .mobile-nav-toggler{
+        display: block;
+    }
+    .mobile-nav-toggler .icon-bar {
+        position: relative;
+        display: block;
+        background: #ffffff;
+        height: 2px;
+        width: 30px;
+        margin: 7px 5px;
+    }    
+    
+     
+        
+        
+    }
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 1200px) and (max-width: 1390px) { 
+     
+    /*** Main Slider Css ***/     
+    .main-slider .auto-container {
+        padding: 0px 100px;
+    }    
+        
+        
+    }
+    
+    
+    @media only screen and (min-width: 992px) and (max-width: 1199px) { 
+    
+    /*** Main Slider Css ***/      
+    .main-slider .auto-container {
+        padding: 0px 100px;
+    }
+    .main-slider .content h2 {
+        font-size: 60px;
+        margin-top: 19px;
+        margin-bottom: 49px;
+    } 
+    .slider-social-links {
+        bottom: 40px;
+        right: 30px;
+        width: auto;
+    }
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    @media only screen and (min-width: 768px) and (max-width: 991px) { 
+        
+    /*** Main Slider Css ***/   
+    .main-slider .auto-container {
+        padding: 0px 100px;
+    }
+    .main-slider.style1 .slide {
+        padding: 344px 0px 270px;
+    }    
+    .main-slider .content h2 {
+        font-size: 50px;
+        line-height: 1.2em;
+        margin-top: 19px;
+        margin-bottom: 38px;
+    }    
+    .slider-social-links {
+        bottom: 110px;
+        right: 30px;
+        width: auto;
+    }  
+        
+    /*** Main Slider Style2 Css ***/ 
+    .main-slider.style2 .slide {
+        padding: 294px 0px 280px;
+    }    
+    .main-slider.style2 .content h2 {
+        font-size: 40px;
+        line-height: 1.3em;
+        margin-bottom: 27px;
+    }    
+        
+    /*** Main Slider Style3 Css ***/     
+    .main-slider.style3 .content h2 {
+        font-size: 60px;
+        line-height: 1.3em;
+        margin-bottom: 23px;
+    }    
+      
+      
+        
+        
+        
+        
+        
+        
+        
+          
+        
+    }
+    
+    
+    @media only screen and (min-width: 500px) and (max-width: 767px) { 
+        
+    /*** Main Slider Css ***/ 
+    .main-slider .auto-container {
+        padding: 0px 70px;
+    }
+    .main-slider.style1 .slide {
+        padding: 304px 0px 200px;
+    }      
+    .main-slider .owl-theme .owl-nav .owl-prev {
+        left: 0px;
+    }    
+    .main-slider .owl-theme .owl-nav .owl-next {
+        right: 0px;
+    }    
+    .main-slider .content h2 {
+        font-size: 40px;
+        line-height: 1.2em;
+        margin-top: 23px;
+        margin-bottom: 40px;
+    }    
+    .main-slider .content h2 br{
+        display: none;
+    } 
+    .slider-social-links {
+        bottom: 40px;
+        right: 30px;
+        width: auto;
+    } 
+        
+    /*** Main Slider Style2 Css ***/ 
+    .main-slider.style2 .slide {
+        padding: 294px 0px 280px;
+    }    
+    .main-slider.style2 .content h2 {
+        font-size: 40px;
+        line-height: 1.3em;
+        margin-bottom: 27px;
+    }    
+    .main-slider.style2 .content .text p br{
+        display: none;
+    }    
+        
+    /*** Main Slider Style3 Css ***/ 
+    .main-slider.style3 .slide {
+        padding: 417px 0px 250px;
+    }    
+    .main-slider.style3 .content h2 {
+        font-size: 40px;
+        line-height: 1.3em;
+        margin-bottom: 17px;
+    }      
+    .main-slider.style3 .content .text p br{
+        display: none;
+    }    
+    .main-slider.style3.pd .slide {
+        padding: 147px 0px 150px;
+    }      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       
+        
+    }
+    
+    @media only screen and (max-width: 499px) {
+        
+    /*** Main Slider Css ***/ 
+    .main-slider .auto-container {
+        padding: 0px 30px;
+    }
+    .main-slider.style1 .slide {
+        padding: 304px 0px 200px;
+    }      
+    .main-slider .owl-theme .owl-nav .owl-prev {
+        display: none;
+    }    
+    .main-slider .owl-theme .owl-nav .owl-next {
+        display: none;
+    }    
+    .main-slider .content h2 {
+        font-size: 40px;
+        line-height: 1.2em;
+        margin-top: 23px;
+        margin-bottom: 40px;
+    }    
+    .main-slider .content h2 br{
+        display: none;
+    }
+    .slider-social-links {
+        bottom: 40px;
+        right: 30px;
+        width: auto;
+    }    
+       
+    /*** Main Slider Style2 Css ***/ 
+    .main-slider.style2 .slide {
+        padding: 294px 0px 280px;
+    }    
+    .main-slider.style2 .content h2 {
+        font-size: 30px;
+        line-height: 1.3em;
+        margin-bottom: 27px;
+    }    
+    .main-slider.style2 .content .text p br{
+        display: none;
+    }    
+    .main-slider.style2 .content .btns-box a {
+        padding: 0 15px;
+    }        
+        
+    /*** Main Slider Style3 Css ***/ 
+    .main-slider.style3 .slide {
+        padding: 417px 0px 250px;
+    }    
+    .main-slider.style3 .content h2 {
+        font-size: 40px;
+        line-height: 1.3em;
+        margin-bottom: 17px;
+    }      
+    .main-slider.style3 .content .text p br{
+        display: none;
+    }    
+    .main-slider.style3.pd .slide {
+        padding: 147px 0px 150px;
+    }         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 1200px) and (max-width: 1750px) { 
+        
+    /*** Competitions Area Css ***/     
+    .competitions-area .image-box-right .image-layer {
+        background-size: contain;
+    }  
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .order-box-2 {
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    .order-box-1 {
+        -ms-flex-order: 1;
+        order: 1;
+    }    
+    
+    }
+    
+    
+    @media only screen and (min-width: 300px) and (max-width: 767px) { 
+    .order-box-2 {
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    .order-box-1 {
+        -ms-flex-order: 1;
+        order: 1;
+    } 
+        
+        
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
